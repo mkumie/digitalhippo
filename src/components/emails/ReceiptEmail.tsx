@@ -336,6 +336,3 @@ const footerCopyright = {
   fontSize: "12px",
   color: "rgb(102,102,102)",
 };
-
-
-// Cont. @ 11:11:06 after fully deploying in any one of the deploy platforms
