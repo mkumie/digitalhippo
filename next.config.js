@@ -9,10 +9,9 @@ const nextConfig = {
         protocol: "http",
       },
       {
-        hostname: "127.0.0.1",
+        hostname: "digitalhippo-two.vercel.app",
         pathname: "**",
-        port: "3001",
-        protocol: "http",
+        protocol: "https",
       },
     ],
   },
