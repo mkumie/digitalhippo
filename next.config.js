@@ -14,7 +14,11 @@ const nextConfig = {
     //     protocol: "https",
     //   },
     // ],
-    domains: ["localhost", "digitalhippo-two.vercel.app"],
+    domains: [
+      "localhost",
+      "digitalhippo-two.vercel.app",
+      "ornate-pavlova-e3db08.netlify.app",
+    ],
   },
 };
 
